@@ -1,0 +1,201 @@
+FlightDate,Airline,Origin,Destination,ScheduledDeparture,ActualDeparture,DepartureDelay,DelayCategory,Weather,DayOfWeek,Month
+2023-11-10,SpiceJet,HYD,MAA,06:00,07:01,61,>60 min,Rain,Friday,November
+2023-05-04,Vistara,DEL,MAA,10:00,11:09,69,>60 min,Rain,Thursday,May
+2023-04-21,Vistara,DEL,BOM,05:00,05:25,25,15-60 min,Rain,Friday,April
+2023-04-03,Vistara,DEL,BOM,19:00,19:17,17,15-60 min,Clear,Monday,April
+2023-06-11,Air India,DEL,BOM,08:00,09:17,77,>60 min,Rain,Sunday,June
+2023-11-19,GoAir,BOM,HYD,10:00,10:12,12,<15 min,Rain,Sunday,November
+2023-07-27,SpiceJet,BLR,BOM,20:00,20:44,44,15-60 min,Clear,Thursday,July
+2023-09-07,Air India,MAA,BOM,04:00,04:28,28,15-60 min,Rain,Thursday,September
+2023-10-10,Vistara,MAA,BLR,11:00,12:30,90,>60 min,Clear,Tuesday,October
+2023-05-25,Vistara,BLR,DEL,20:00,21:07,67,>60 min,Fog,Thursday,May
+2023-10-24,Air India,MAA,DEL,23:00,00:24,84,>60 min,Rain,Tuesday,October
+2023-07-29,Air India,BOM,MAA,11:00,11:02,2,<15 min,Cloudy,Saturday,July
+2023-10-01,Vistara,BOM,BLR,13:00,14:34,94,>60 min,Fog,Sunday,October
+2023-07-24,Air India,BOM,HYD,10:00,11:14,74,>60 min,Cloudy,Monday,July
+2023-02-02,Air India,BOM,DEL,08:00,08:45,45,15-60 min,Rain,Thursday,February
+2023-10-20,SpiceJet,HYD,BOM,23:00,00:30,90,>60 min,Rain,Friday,October
+2023-04-13,GoAir,DEL,BOM,01:00,01:27,27,15-60 min,Cloudy,Thursday,April
+2023-11-24,SpiceJet,MAA,HYD,11:00,12:47,107,>60 min,Fog,Friday,November
+2023-03-30,GoAir,BOM,DEL,20:00,21:37,97,>60 min,Fog,Thursday,March
+2023-12-27,IndiGo,BLR,BOM,01:00,02:26,86,>60 min,Rain,Wednesday,December
+2023-10-14,IndiGo,BLR,BOM,13:00,14:50,110,>60 min,Clear,Saturday,October
+2023-02-02,SpiceJet,MAA,BOM,04:00,05:49,109,>60 min,Cloudy,Thursday,February
+2023-07-22,Air India,BOM,MAA,05:00,05:19,19,15-60 min,Fog,Saturday,July
+2023-09-17,GoAir,DEL,BLR,02:00,02:16,16,15-60 min,Cloudy,Sunday,September
+2023-06-15,Vistara,BOM,DEL,00:00,01:08,68,>60 min,Cloudy,Thursday,June
+2023-06-04,SpiceJet,BOM,DEL,18:00,19:38,98,>60 min,Clear,Sunday,June
+2023-08-18,GoAir,DEL,BLR,13:00,14:38,98,>60 min,Storm,Friday,August
+2023-06-08,IndiGo,MAA,HYD,13:00,13:36,36,15-60 min,Fog,Thursday,June
+2023-02-14,IndiGo,HYD,DEL,18:00,19:26,86,>60 min,Storm,Tuesday,February
+2023-09-22,Air India,DEL,HYD,09:00,09:24,24,15-60 min,Rain,Friday,September
+2023-07-26,Air India,BLR,BOM,22:00,23:14,74,>60 min,Cloudy,Wednesday,July
+2023-02-08,Air India,MAA,BOM,03:00,04:06,66,>60 min,Fog,Wednesday,February
+2023-10-03,IndiGo,BOM,BLR,06:00,06:20,20,15-60 min,Cloudy,Tuesday,October
+2023-12-26,Air India,BOM,HYD,04:00,04:48,48,15-60 min,Fog,Tuesday,December
+2023-08-28,Air India,HYD,MAA,11:00,12:53,113,>60 min,Clear,Monday,August
+2023-05-22,SpiceJet,BOM,DEL,00:00,00:01,1,<15 min,Rain,Monday,May
+2023-05-21,SpiceJet,HYD,MAA,23:00,00:25,85,>60 min,Storm,Sunday,May
+2023-06-30,SpiceJet,DEL,HYD,12:00,12:27,27,15-60 min,Storm,Friday,June
+2023-08-29,SpiceJet,DEL,MAA,08:00,08:49,49,15-60 min,Fog,Tuesday,August
+2023-07-04,IndiGo,BLR,BOM,20:00,21:05,65,>60 min,Clear,Tuesday,July
+2023-09-04,IndiGo,BOM,BLR,05:00,05:04,4,<15 min,Storm,Monday,September
+2023-01-06,SpiceJet,DEL,BOM,11:00,12:24,84,>60 min,Fog,Friday,January
+2023-09-19,Air India,MAA,BOM,18:00,19:35,95,>60 min,Cloudy,Tuesday,September
+2023-04-16,Air India,HYD,BLR,05:00,05:24,24,15-60 min,Cloudy,Sunday,April
+2023-10-30,SpiceJet,MAA,BLR,00:00,00:51,51,15-60 min,Storm,Monday,October
+2023-09-29,GoAir,BOM,DEL,21:00,21:41,41,15-60 min,Clear,Friday,September
+2023-01-14,SpiceJet,BLR,MAA,09:00,09:00,0,On-Time,Clear,Saturday,January
+2023-01-28,SpiceJet,DEL,MAA,19:00,19:18,18,15-60 min,Cloudy,Saturday,January
+2023-04-27,Air India,HYD,BOM,02:00,03:33,93,>60 min,Clear,Thursday,April
+2023-07-09,GoAir,BLR,DEL,22:00,22:22,22,15-60 min,Fog,Sunday,July
+2023-11-05,IndiGo,BOM,BLR,05:00,06:42,102,>60 min,Clear,Sunday,November
+2023-10-05,IndiGo,HYD,MAA,15:00,15:20,20,15-60 min,Rain,Thursday,October
+2023-06-25,IndiGo,BLR,BOM,21:00,22:51,111,>60 min,Rain,Sunday,June
+2023-10-20,Vistara,BOM,BLR,17:00,18:32,92,>60 min,Rain,Friday,October
+2023-09-02,SpiceJet,BLR,DEL,14:00,15:11,71,>60 min,Fog,Saturday,September
+2023-01-10,Vistara,HYD,BLR,23:00,00:05,65,>60 min,Cloudy,Tuesday,January
+2023-10-03,IndiGo,BOM,BLR,18:00,18:39,39,15-60 min,Storm,Tuesday,October
+2023-09-18,IndiGo,HYD,MAA,13:00,13:58,58,15-60 min,Storm,Monday,September
+2023-05-23,GoAir,MAA,BOM,02:00,02:01,1,<15 min,Clear,Tuesday,May
+2023-03-24,Vistara,MAA,HYD,08:00,08:22,22,15-60 min,Clear,Friday,March
+2023-05-27,Vistara,DEL,HYD,04:00,04:25,25,15-60 min,Rain,Saturday,May
+2023-01-19,GoAir,BLR,BOM,23:00,00:01,61,>60 min,Clear,Thursday,January
+2023-03-30,Air India,BOM,DEL,23:00,23:56,56,15-60 min,Cloudy,Thursday,March
+2023-11-05,SpiceJet,BLR,HYD,22:00,23:28,88,>60 min,Rain,Sunday,November
+2023-03-10,SpiceJet,BOM,HYD,08:00,08:50,50,15-60 min,Fog,Friday,March
+2023-01-02,GoAir,HYD,DEL,17:00,17:17,17,15-60 min,Cloudy,Monday,January
+2023-06-12,IndiGo,MAA,DEL,08:00,09:41,101,>60 min,Cloudy,Monday,June
+2023-11-30,GoAir,BOM,DEL,19:00,20:10,70,>60 min,Clear,Thursday,November
+2023-09-03,GoAir,BOM,HYD,23:00,22:58,-2,On-Time,Rain,Sunday,September
+2023-04-17,IndiGo,DEL,BOM,01:00,02:41,101,>60 min,Cloudy,Monday,April
+2023-10-01,SpiceJet,MAA,DEL,19:00,19:21,21,15-60 min,Storm,Sunday,October
+2023-10-21,GoAir,HYD,BLR,19:00,20:15,75,>60 min,Fog,Saturday,October
+2023-01-04,Air India,BOM,BLR,18:00,18:49,49,15-60 min,Fog,Wednesday,January
+2023-01-07,Air India,BOM,BLR,01:00,02:55,115,>60 min,Fog,Saturday,January
+2023-07-11,Vistara,HYD,DEL,15:00,16:32,92,>60 min,Fog,Tuesday,July
+2023-05-13,Air India,MAA,HYD,10:00,10:03,3,<15 min,Clear,Saturday,May
+2023-03-29,IndiGo,HYD,BLR,16:00,17:48,108,>60 min,Fog,Wednesday,March
+2023-03-04,SpiceJet,BLR,BOM,20:00,20:15,15,<15 min,Fog,Saturday,March
+2023-09-06,Air India,MAA,DEL,05:00,05:47,47,15-60 min,Fog,Wednesday,September
+2023-09-07,Vistara,HYD,BLR,04:00,03:59,-1,On-Time,Storm,Thursday,September
+2023-06-13,Air India,BOM,MAA,21:00,21:09,9,<15 min,Storm,Tuesday,June
+2023-05-04,Vistara,HYD,DEL,05:00,05:25,25,15-60 min,Fog,Thursday,May
+2023-10-29,GoAir,HYD,BLR,17:00,18:55,115,>60 min,Fog,Sunday,October
+2023-08-05,Air India,HYD,MAA,09:00,08:57,-3,On-Time,Clear,Saturday,August
+2023-03-16,GoAir,BOM,HYD,22:00,23:31,91,>60 min,Rain,Thursday,March
+2023-07-03,Vistara,MAA,HYD,07:00,06:56,-4,On-Time,Cloudy,Monday,July
+2023-12-19,GoAir,MAA,DEL,20:00,21:13,73,>60 min,Clear,Tuesday,December
+2023-05-24,SpiceJet,BOM,HYD,11:00,12:48,108,>60 min,Clear,Wednesday,May
+2023-02-10,GoAir,MAA,BLR,06:00,06:19,19,15-60 min,Storm,Friday,February
+2023-10-10,Vistara,DEL,MAA,20:00,20:49,49,15-60 min,Fog,Tuesday,October
+2023-04-28,Air India,DEL,HYD,11:00,11:52,52,15-60 min,Clear,Friday,April
+2023-08-25,IndiGo,BOM,MAA,10:00,11:14,74,>60 min,Storm,Friday,August
+2023-02-25,Vistara,BOM,BLR,05:00,06:45,105,>60 min,Storm,Saturday,February
+2023-02-15,Vistara,HYD,DEL,19:00,19:08,8,<15 min,Rain,Wednesday,February
+2023-12-13,Vistara,BOM,MAA,01:00,02:05,65,>60 min,Cloudy,Wednesday,December
+2023-10-30,SpiceJet,BLR,MAA,13:00,13:15,15,<15 min,Fog,Monday,October
+2023-08-27,Air India,DEL,MAA,22:00,22:40,40,15-60 min,Storm,Sunday,August
+2023-12-18,Vistara,BOM,HYD,23:00,00:44,104,>60 min,Cloudy,Monday,December
+2023-12-19,Vistara,MAA,BLR,17:00,17:54,54,15-60 min,Clear,Tuesday,December
+2023-10-30,Air India,BLR,HYD,08:00,08:41,41,15-60 min,Storm,Monday,October
+2023-12-14,Vistara,BOM,MAA,22:00,23:54,114,>60 min,Fog,Thursday,December
+2023-03-17,Air India,BOM,BLR,07:00,07:56,56,15-60 min,Fog,Friday,March
+2023-06-04,SpiceJet,MAA,DEL,06:00,07:00,60,15-60 min,Rain,Sunday,June
+2023-08-07,GoAir,BLR,DEL,10:00,11:11,71,>60 min,Cloudy,Monday,August
+2023-06-04,Vistara,MAA,BOM,10:00,11:20,80,>60 min,Cloudy,Sunday,June
+2023-01-31,Air India,BOM,MAA,22:00,23:05,65,>60 min,Cloudy,Tuesday,January
+2023-08-14,IndiGo,HYD,DEL,21:00,21:45,45,15-60 min,Clear,Monday,August
+2023-09-07,IndiGo,BOM,HYD,03:00,04:03,63,>60 min,Rain,Thursday,September
+2023-05-25,Vistara,MAA,BLR,06:00,07:04,64,>60 min,Rain,Thursday,May
+2023-12-28,GoAir,MAA,BLR,15:00,15:12,12,<15 min,Rain,Thursday,December
+2023-10-21,Vistara,BLR,HYD,00:00,01:22,82,>60 min,Storm,Saturday,October
+2023-10-16,GoAir,MAA,BLR,05:00,05:09,9,<15 min,Rain,Monday,October
+2023-01-26,IndiGo,DEL,BLR,15:00,15:32,32,15-60 min,Storm,Thursday,January
+2023-09-15,SpiceJet,HYD,BLR,20:00,21:10,70,>60 min,Storm,Friday,September
+2023-01-13,GoAir,BOM,DEL,01:00,02:12,72,>60 min,Clear,Friday,January
+2023-01-02,IndiGo,MAA,DEL,10:00,11:14,74,>60 min,Storm,Monday,January
+2023-09-15,Air India,BOM,MAA,02:00,03:59,119,>60 min,Storm,Friday,September
+2023-02-25,Air India,DEL,MAA,07:00,07:59,59,15-60 min,Clear,Saturday,February
+2023-04-29,GoAir,MAA,DEL,00:00,00:33,33,15-60 min,Fog,Saturday,April
+2023-07-21,Air India,MAA,BLR,18:00,18:07,7,<15 min,Clear,Friday,July
+2023-10-02,Vistara,MAA,BOM,21:00,22:47,107,>60 min,Storm,Monday,October
+2023-02-28,IndiGo,MAA,DEL,22:00,23:04,64,>60 min,Rain,Tuesday,February
+2023-12-22,IndiGo,BLR,HYD,08:00,09:18,78,>60 min,Storm,Friday,December
+2023-11-03,GoAir,HYD,DEL,19:00,20:36,96,>60 min,Cloudy,Friday,November
+2023-12-17,IndiGo,DEL,HYD,01:00,01:35,35,15-60 min,Cloudy,Sunday,December
+2023-12-31,Air India,BLR,DEL,18:00,19:03,63,>60 min,Clear,Sunday,December
+2023-09-22,Air India,MAA,BLR,12:00,13:17,77,>60 min,Cloudy,Friday,September
+2023-05-05,GoAir,BLR,HYD,19:00,19:34,34,15-60 min,Cloudy,Friday,May
+2023-04-15,Air India,MAA,HYD,09:00,10:03,63,>60 min,Rain,Saturday,April
+2023-02-20,GoAir,MAA,BOM,06:00,06:44,44,15-60 min,Storm,Monday,February
+2023-11-09,Air India,BOM,MAA,02:00,03:29,89,>60 min,Cloudy,Thursday,November
+2023-12-18,GoAir,DEL,BLR,11:00,11:39,39,15-60 min,Cloudy,Monday,December
+2023-07-23,Vistara,BLR,DEL,17:00,17:11,11,<15 min,Storm,Sunday,July
+2023-08-12,Vistara,BOM,BLR,17:00,18:17,77,>60 min,Cloudy,Saturday,August
+2023-05-15,GoAir,MAA,DEL,21:00,21:44,44,15-60 min,Cloudy,Monday,May
+2023-02-26,GoAir,BOM,MAA,02:00,02:37,37,15-60 min,Storm,Sunday,February
+2023-04-21,Vistara,BOM,MAA,03:00,03:54,54,15-60 min,Rain,Friday,April
+2023-03-02,SpiceJet,DEL,HYD,20:00,20:19,19,15-60 min,Fog,Thursday,March
+2023-04-21,SpiceJet,BLR,MAA,03:00,03:51,51,15-60 min,Cloudy,Friday,April
+2023-02-28,GoAir,DEL,BLR,20:00,21:14,74,>60 min,Storm,Tuesday,February
+2023-10-14,GoAir,DEL,BOM,09:00,09:23,23,15-60 min,Clear,Saturday,October
+2023-10-02,GoAir,MAA,BOM,18:00,20:00,120,>60 min,Rain,Monday,October
+2023-01-13,Air India,DEL,BOM,17:00,17:04,4,<15 min,Rain,Friday,January
+2023-03-26,GoAir,BLR,DEL,03:00,04:26,86,>60 min,Cloudy,Sunday,March
+2023-08-12,IndiGo,BLR,BOM,15:00,15:58,58,15-60 min,Storm,Saturday,August
+2023-12-10,GoAir,DEL,HYD,23:00,00:17,77,>60 min,Clear,Sunday,December
+2023-04-10,Vistara,BOM,BLR,07:00,07:49,49,15-60 min,Storm,Monday,April
+2023-07-01,Air India,BOM,HYD,11:00,12:17,77,>60 min,Rain,Saturday,July
+2023-11-17,Vistara,BOM,BLR,20:00,20:43,43,15-60 min,Clear,Friday,November
+2023-05-12,SpiceJet,BLR,DEL,12:00,12:43,43,15-60 min,Storm,Friday,May
+2023-03-24,IndiGo,HYD,DEL,14:00,13:56,-4,On-Time,Rain,Friday,March
+2023-11-19,SpiceJet,DEL,BOM,00:00,00:45,45,15-60 min,Storm,Sunday,November
+2023-03-11,IndiGo,HYD,DEL,07:00,07:35,35,15-60 min,Rain,Saturday,March
+2023-07-02,GoAir,DEL,BLR,09:00,09:25,25,15-60 min,Fog,Sunday,July
+2023-03-08,Air India,BOM,DEL,09:00,10:47,107,>60 min,Storm,Wednesday,March
+2023-01-18,Vistara,BLR,BOM,20:00,20:47,47,15-60 min,Rain,Wednesday,January
+2023-08-23,SpiceJet,DEL,HYD,14:00,14:24,24,15-60 min,Cloudy,Wednesday,August
+2023-02-18,IndiGo,MAA,BLR,06:00,07:08,68,>60 min,Clear,Saturday,February
+2023-01-30,IndiGo,BLR,MAA,04:00,04:20,20,15-60 min,Storm,Monday,January
+2023-09-05,IndiGo,BOM,HYD,16:00,17:17,77,>60 min,Cloudy,Tuesday,September
+2023-06-14,SpiceJet,HYD,BLR,09:00,10:47,107,>60 min,Clear,Wednesday,June
+2023-02-21,GoAir,BLR,DEL,00:00,00:23,23,15-60 min,Rain,Tuesday,February
+2023-09-14,Vistara,BLR,BOM,12:00,12:14,14,<15 min,Clear,Thursday,September
+2023-05-05,IndiGo,MAA,BOM,22:00,22:28,28,15-60 min,Fog,Friday,May
+2023-06-05,SpiceJet,HYD,DEL,22:00,23:41,101,>60 min,Storm,Monday,June
+2023-11-06,IndiGo,BOM,HYD,08:00,09:58,118,>60 min,Storm,Monday,November
+2023-10-22,GoAir,HYD,DEL,08:00,08:04,4,<15 min,Rain,Sunday,October
+2023-05-25,GoAir,HYD,BOM,03:00,03:07,7,<15 min,Cloudy,Thursday,May
+2023-02-28,SpiceJet,HYD,BLR,04:00,04:15,15,<15 min,Rain,Tuesday,February
+2023-04-29,SpiceJet,HYD,DEL,03:00,04:46,106,>60 min,Clear,Saturday,April
+2023-11-02,Vistara,DEL,MAA,10:00,10:34,34,15-60 min,Rain,Thursday,November
+2023-12-11,Air India,BOM,HYD,22:00,23:34,94,>60 min,Clear,Monday,December
+2023-04-07,Air India,HYD,DEL,03:00,04:59,119,>60 min,Clear,Friday,April
+2023-04-11,Air India,BOM,MAA,23:00,23:02,2,<15 min,Fog,Tuesday,April
+2023-01-03,Air India,MAA,DEL,07:00,08:26,86,>60 min,Rain,Tuesday,January
+2023-08-14,Vistara,BLR,BOM,21:00,22:22,82,>60 min,Fog,Monday,August
+2023-05-10,IndiGo,MAA,DEL,06:00,06:56,56,15-60 min,Cloudy,Wednesday,May
+2023-10-02,SpiceJet,HYD,BOM,07:00,08:12,72,>60 min,Cloudy,Monday,October
+2023-04-26,SpiceJet,BLR,MAA,16:00,17:51,111,>60 min,Clear,Wednesday,April
+2023-05-30,Air India,BOM,MAA,14:00,15:52,112,>60 min,Storm,Tuesday,May
+2023-12-23,GoAir,MAA,DEL,12:00,14:00,120,>60 min,Rain,Saturday,December
+2023-02-04,IndiGo,BLR,MAA,16:00,17:40,100,>60 min,Storm,Saturday,February
+2023-06-19,Air India,BOM,MAA,18:00,19:06,66,>60 min,Storm,Monday,June
+2023-05-17,SpiceJet,BOM,HYD,04:00,05:44,104,>60 min,Cloudy,Wednesday,May
+2023-07-19,IndiGo,MAA,DEL,06:00,07:48,108,>60 min,Storm,Wednesday,July
+2023-08-09,Air India,HYD,MAA,07:00,08:32,92,>60 min,Storm,Wednesday,August
+2023-02-22,IndiGo,BLR,HYD,23:00,00:02,62,>60 min,Cloudy,Wednesday,February
+2023-06-28,GoAir,HYD,BOM,03:00,04:51,111,>60 min,Cloudy,Wednesday,June
+2023-07-18,Air India,MAA,HYD,12:00,13:03,63,>60 min,Rain,Tuesday,July
+2023-10-11,SpiceJet,HYD,BOM,13:00,14:34,94,>60 min,Cloudy,Wednesday,October
+2023-08-21,IndiGo,BOM,MAA,08:00,09:49,109,>60 min,Storm,Monday,August
+2023-08-16,SpiceJet,BOM,DEL,14:00,15:09,69,>60 min,Fog,Wednesday,August
+2023-08-25,IndiGo,BLR,DEL,23:00,00:33,93,>60 min,Fog,Friday,August
+2023-02-10,SpiceJet,DEL,BLR,16:00,16:14,14,<15 min,Fog,Friday,February
+2023-05-20,Vistara,DEL,BOM,15:00,15:46,46,15-60 min,Storm,Saturday,May
+2023-01-17,Vistara,BLR,MAA,21:00,22:30,90,>60 min,Rain,Tuesday,January
+2023-03-07,Air India,MAA,DEL,04:00,05:46,106,>60 min,Clear,Tuesday,March
+2023-08-19,Vistara,BOM,HYD,12:00,13:37,97,>60 min,Fog,Saturday,August
+2023-04-29,GoAir,MAA,HYD,23:00,23:57,57,15-60 min,Fog,Saturday,April
+2023-01-26,Vistara,DEL,MAA,04:00,04:43,43,15-60 min,Storm,Thursday,January
