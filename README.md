@@ -68,8 +68,3 @@ Demonstrates how preprocessing and modeling improve decision-making capability.
 ### 🏁 Conclusion
 Using SPSS Modeler, this project proves the effectiveness of data-driven modeling in understanding flight delays. With minimal code, we derived powerful insights to support real-world aviation planning.
 
-```yaml
-
-
-Let me know if you want it as a downloadable `.md` file or if you'd like a **PowerPoint and PDF version
-```
